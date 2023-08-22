@@ -1,8 +1,0 @@
-﻿  mockingjay_ssh.c
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(11,34): warning C4013: 'ImageNtHeader' undefined; assuming extern returning int
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(11,23): warning C4047: 'initializing': 'IMAGE_NT_HEADERS *' differs in levels of indirection from 'int'
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(48,91): warning C4133: 'function': incompatible types - from 'STARTUPINFOA *' to 'LPSTARTUPINFOW'
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(94,24): warning C4473: 'printf' : not enough arguments passed for format string
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(94,24): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
-C:\Users\cody\source\repos\mockingjay_ssh\mockingjay_ssh\mockingjay_ssh.c(94,24): message : the missing variadic argument 1 is required by format string '%p'
-  mockingjay_ssh.vcxproj -> C:\Users\cody\source\repos\mockingjay_ssh\x64\Debug\mockingjay_ssh.exe
