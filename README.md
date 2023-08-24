@@ -10,7 +10,7 @@ With that being said, **I plan to continue development of this POC once other Re
 
 ## TO-DO
 * Make the POC threadless inject as mentioned in the above article
-* Convert self_inject from memcpy to NtWriteVirtualMemory
+* ~~Convert self_inject from memcpy to NtWriteVirtualMemory~~
 * Implement various evasion techniques for Purple Team testing
 	* Most likely will be sub-POCs. NTAPI, Direct Syscall, Indirect Syscall, etc.
 * Can it be BOF'd?
