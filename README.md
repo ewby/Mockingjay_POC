@@ -13,4 +13,4 @@ With that being said, **I plan to continue development of this POC once other Re
 * ~~Convert self_inject from memcpy to NtWriteVirtualMemory~~
 * Implement various evasion techniques for Purple Team testing
 	* Most likely will be sub-POCs. NTAPI, Direct Syscall, Indirect Syscall, etc.
-* Can it be BOF'd?
+* ~~Can it be BOF'd?~~
